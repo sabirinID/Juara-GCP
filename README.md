@@ -15,3 +15,5 @@ This lab is part of a series designed to provide hands-on experience with Genera
 ### 3. [Get Started with Vertex AI Studio](https://www.cloudskillsboost.google/course_templates/723/labs/408192)
 In this lab, you will learn how to use Vertex AI Studio to create prompts and conversations with Gemini's multimodal capabilities.
 
+## References
+
