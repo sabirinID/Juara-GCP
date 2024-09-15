@@ -16,4 +16,4 @@ This lab is part of a series designed to provide hands-on experience with Genera
 In this lab, you will learn how to use Vertex AI Studio to create prompts and conversations with Gemini's multimodal capabilities.
 
 ## References
-
+https://github.com/GoogleCloudPlatform/generative-ai/
