@@ -1,5 +1,5 @@
 # Juara-GCP
-
+## #JuaraGoogleCloudPlatform
 Google Cloud Skills Boost
 
 ## [Generative AI Explorer - Vertex AI](https://www.cloudskillsboost.google/course_templates/723)
